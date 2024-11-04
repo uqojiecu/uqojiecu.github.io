@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uqojiecu.github.io/Pfl/sitemap_index.txt
+Sitemap: https://uqojiecu.github.io/YFM/sitemap_index.txt
+Sitemap: https://uqojiecu.github.io/YoC/sitemap_index.txt
+Sitemap: https://uqojiecu.github.io/vbg/sitemap_index.txt
